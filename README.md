@@ -2,8 +2,8 @@
 IT Student from Nepal pursuing Bachelor Education in Busan, South Korea at Dong-Eui University. 
 
 ## Skills
--Python
--C programming
+- Python
+- C programming
 - HTML
 - CSS
 - PHP
