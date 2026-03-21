@@ -14,4 +14,4 @@ IT Student from Nepal pursuing Bachelor Education in Busan, South Korea at Dong-
 - Student Management System
 
 ## Contact
-- Email: Keeshaab12@gmail.com
+- Email: keeshaab12@gmail.com
